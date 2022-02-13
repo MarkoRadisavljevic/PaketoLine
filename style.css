@@ -50,7 +50,7 @@ a{
         margin-left: 40px;
 }
 #home .home-text h3{
-        font-size: 15px;
+        font-size: 16px;
         margin-top: 40px;
         color: gray;
 }
@@ -74,7 +74,7 @@ img{
 .images{
         display: flex;
         justify-content: space-evenly;
-        margin-top: 50px;
+        margin-top: 20px;
         margin-bottom: 50px;
 }
 
@@ -83,7 +83,7 @@ img{
         text-align: center;
 }
 .benefits h3{
-        font-size: 14px;
+        font-size: 16px;
         color: gray;
 }
 #about{
@@ -94,9 +94,9 @@ img{
         margin-top: 10px;
 }
 #about img{
-        margin-top: 65px;
-        width: 70%;
-        height: 50%;
+        margin-top: 40px;
+        width: 65%;
+        height: 40%;
 }
 
 .sub-about{
@@ -114,7 +114,7 @@ img{
 }
 .idea h3{       
         color:gray;
-        padding: 60px;  
+        padding: 40px 80px 60px 120px;  
 }
 #ideja_slika {
         
@@ -122,5 +122,5 @@ img{
 }
 .sub-about img {
         height: 460px;
-        width: 674px;
+        width: 749px;
 }
