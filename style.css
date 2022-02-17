@@ -147,7 +147,7 @@ img{
 .futer {
         display: flex;
         justify-content: space-evenly;
-        background-color: rgb(150, 150, 150);
+        background-color:rgb(233, 233, 233);
 }
 .futer h3 {
         margin-bottom: 10px;
@@ -160,6 +160,9 @@ img{
         height: 200px;
         margin-top: 10px;
         margin-bottom: 20px;
+        
+        border: solid 3px;
+        border-radius: 25px;
 }
 .kontakti {
         margin-left: -30px;
