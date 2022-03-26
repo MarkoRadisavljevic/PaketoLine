@@ -228,7 +228,7 @@ img {
 @media screen and (max-width: 774px) {
     #ideja_slika {
         height: 300px;
-        width: 70%;
+        width: 80%;
         margin-top: 0px;
     }
     iframe {
@@ -266,8 +266,8 @@ img {
         font-size: 12px;
     }
     .idea h3 {
-        padding-right: 75px ;
-        padding-left: 75px;
+        padding-right: 50px ;
+        padding-left: 50px;
     }
     #home .home-text h3 {
         margin-left:0px ;
