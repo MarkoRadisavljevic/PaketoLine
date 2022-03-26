@@ -2,11 +2,6 @@
 @import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300&display=swap');
 
-@media only screen and (max-width: 600px){
-        body {
-                background-color: red;
-        }
-}
 *{
         font-family: 'IBM Plex Sans', sans-serif;
         padding: 0;
