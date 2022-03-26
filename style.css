@@ -264,4 +264,14 @@ img {
     #adresa {
         font-size: 12px;
     }
+    .idea h3 {
+        padding-right: 75px ;
+        padding-left: 75px;
+    }
+    #home .home-text h3 {
+        margin-left:0px ;
+    }
+    #home .home-text {
+        margin-left: 20px;
+    }
 }
