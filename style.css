@@ -228,7 +228,8 @@ img {
 @media screen and (max-width: 774px) {
     #ideja_slika {
         height: 300px;
-        width: 60%;
+        width: 70%;
+        margin-top: 0px;
     }
     iframe {
         width: 250px;
@@ -246,7 +247,7 @@ img {
         font-size: 12px;
     }
     .futer h3 {
-        font-size: 16px;
+        font-size: 18px;
     }
     .copyright {
         margin-bottom: 5px;
@@ -255,11 +256,11 @@ img {
         width: 200px;
     }
     .futer {
-        justify-content: space-between;
+        justify-content: space-evenly;
         padding: 0px 5px;
     }
     .naslovi {
-        margin: 0px 20px;
+        display: none;
     }
     #adresa {
         font-size: 12px;
@@ -273,5 +274,11 @@ img {
     }
     #home .home-text {
         margin-left: 20px;
+    }
+    .nav-items {
+        width: 40%;
+    }
+    .nav-items h3 {
+        padding: 0xp 10px;
     }
 }
